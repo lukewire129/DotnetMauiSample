@@ -16,7 +16,7 @@
 
 ### 쇼핑모음
  - https://github.com/lukewire129/ShoppingCart
- - 인터렉티브한 요소 추가
+ - 인터렉티브 요소 추가
 
 ### Floating Action Button (FAB)
  - https://github.com/lukewire129/FloatActionButtonControl
